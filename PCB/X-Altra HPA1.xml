@@ -1,0 +1,3414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>E:\Documents\GitHub\X-Altra-HPA1\PCB\X-Altra HPA1.kicad_sch</source>
+    <date>13/6/2022 22:13:48</date>
+    <tool>Eeschema (6.0.2)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>X-Altra HPA1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C343033</field>
+        <field name="Part number">C1608NP01H101JT000N</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C343033"/>
+      <property name="Part number" value="C1608NP01H101JT000N"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061c0e304</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>47p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C445755</field>
+        <field name="Part number">C1608C0G1H470JT000N</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C445755"/>
+      <property name="Part number" value="C1608C0G1H470JT000N"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9854d20-7e9c-47d0-8315-742b20c2f1be</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>22u</value>
+      <footprint>Capacitor_THT:C_Radial_D8.0mm_H11.5mm_P3.50mm</footprint>
+      <fields>
+        <field name="LCSC part number">N/A</field>
+        <field name="Part number">UES1V220MPM1TA</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="N/A"/>
+      <property name="Part number" value="UES1V220MPM1TA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30ebe963-c53d-44e0-a359-19e8f7cf7c9b</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>47p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C445755</field>
+        <field name="Part number">C1608C0G1H470JT000N</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C445755"/>
+      <property name="Part number" value="C1608C0G1H470JT000N"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ae093cc-73f3-46fc-85db-72d24fc6ce8d</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C2922482</field>
+        <field name="Part number">CL10A106MA8NRNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C2922482"/>
+      <property name="Part number" value="CL10A106MA8NRNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e848ad50-b43e-4b61-973d-fb8dfbbeae6f</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C2922482</field>
+        <field name="Part number">CL10A106MA8NRNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C2922482"/>
+      <property name="Part number" value="CL10A106MA8NRNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89f0e1f6-865b-43ef-a67a-057aca125909</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>220u</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x7.7</footprint>
+      <fields>
+        <field name="LCSC part number">C128533</field>
+        <field name="Part number">EEEFK1C221XP</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C128533"/>
+      <property name="Part number" value="EEEFK1C221XP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c065859-5742-4788-9cd4-955a1f6e7be9</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C15849</field>
+        <field name="Part number">CL10A105KB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C15849"/>
+      <property name="Part number" value="CL10A105KB8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060e226fe</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C15849</field>
+        <field name="Part number">CL10A105KB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C15849"/>
+      <property name="Part number" value="CL10A105KB8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0cbd17c-656c-49c4-b027-cf4d4dcb6f77</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C15849</field>
+        <field name="Part number">CL10A105KB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C15849"/>
+      <property name="Part number" value="CL10A105KB8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060e321a5</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C15849</field>
+        <field name="Part number">CL10A105KB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C15849"/>
+      <property name="Part number" value="CL10A105KB8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060e326b2</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C343033</field>
+        <field name="Part number">C1608NP01H101JT000N</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C343033"/>
+      <property name="Part number" value="C1608NP01H101JT000N"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>980b53e6-2e27-46bb-874b-ab1c8d6116b0</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>47p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C445755</field>
+        <field name="Part number">C1608C0G1H470JT000N</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C445755"/>
+      <property name="Part number" value="C1608C0G1H470JT000N"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f3775d4-4be3-4619-a6f5-1d8e829dac8d</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>22u</value>
+      <footprint>Capacitor_THT:C_Radial_D8.0mm_H11.5mm_P3.50mm</footprint>
+      <fields>
+        <field name="LCSC part number">N/A</field>
+        <field name="Part number">UES1V220MPM1TA</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="N/A"/>
+      <property name="Part number" value="UES1V220MPM1TA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>554a1a59-c5bb-45ad-b018-3c9210fb71b3</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>47p</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C445755</field>
+        <field name="Part number">C1608C0G1H470JT000N</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C445755"/>
+      <property name="Part number" value="C1608C0G1H470JT000N"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2ecf3c9-b636-41a3-8e4a-aafe3652823d</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C2922482</field>
+        <field name="Part number">CL10A106MA8NRNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C2922482"/>
+      <property name="Part number" value="CL10A106MA8NRNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01498496-176b-4425-bcdb-c3113ab41ed2</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>10u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C2922482</field>
+        <field name="Part number">CL10A106MA8NRNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C2922482"/>
+      <property name="Part number" value="CL10A106MA8NRNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a02f5294-7456-4401-a09d-d80e9bdb84e1</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>220u</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x7.7</footprint>
+      <fields>
+        <field name="LCSC part number">C128533</field>
+        <field name="Part number">EEEFK1C221XP</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C128533"/>
+      <property name="Part number" value="EEEFK1C221XP"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f1b0cdbd-4a47-424e-bd96-bb026226bb05</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C15849</field>
+        <field name="Part number">CL10A105KB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C15849"/>
+      <property name="Part number" value="CL10A105KB8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4a473dc-7c65-4bc1-abd1-4a4f2fd96c56</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C15849</field>
+        <field name="Part number">CL10A105KB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C15849"/>
+      <property name="Part number" value="CL10A105KB8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5d93f31-a6d9-4ccf-991d-ca734f348c3d</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C15849</field>
+        <field name="Part number">CL10A105KB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C15849"/>
+      <property name="Part number" value="CL10A105KB8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4f2a175-6cf3-4258-ae89-340471731f21</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C15849</field>
+        <field name="Part number">CL10A105KB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C15849"/>
+      <property name="Part number" value="CL10A105KB8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c4f1cb8-c52d-4a32-b0d7-3ee8ca5287f6</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>470u</value>
+      <footprint>Capacitor_SMD:CP_Elec_8x10.5</footprint>
+      <fields>
+        <field name="LCSC part number">C193277</field>
+        <field name="Part number">EEEFT1E471GP</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Part number" value="EEEFT1E471GP"/>
+      <property name="LCSC part number" value="C193277"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10c876a8-ef15-4f83-ae6a-3eb1fea2743a</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>470u</value>
+      <footprint>Capacitor_SMD:CP_Elec_8x10.5</footprint>
+      <fields>
+        <field name="LCSC part number">C193277</field>
+        <field name="Part number">EEEFT1E471GP</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Part number" value="EEEFT1E471GP"/>
+      <property name="LCSC part number" value="C193277"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8418579f-ccf0-4842-a1de-d065d7f3b19b</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>470u</value>
+      <footprint>Capacitor_SMD:CP_Elec_8x10.5</footprint>
+      <fields>
+        <field name="LCSC part number">C193277</field>
+        <field name="Part number">EEEFT1E471GP</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Part number" value="EEEFT1E471GP"/>
+      <property name="LCSC part number" value="C193277"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d038103-4f01-404d-9d7c-12e73cdfe461</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>470u</value>
+      <footprint>Capacitor_SMD:CP_Elec_8x10.5</footprint>
+      <fields>
+        <field name="LCSC part number">C193277</field>
+        <field name="Part number">EEEFT1E471GP</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Part number" value="EEEFT1E471GP"/>
+      <property name="LCSC part number" value="C193277"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a466700c-2c13-41a6-b33a-e257968ca6f9</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C15849</field>
+        <field name="Part number">CL10A105KB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C15849"/>
+      <property name="Description" value=""/>
+      <property name="Part number" value="CL10A105KB8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c38bccd9-31c3-4de7-928e-28941d8d4bb8</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C15849</field>
+        <field name="Part number">CL10A105KB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C15849"/>
+      <property name="Description" value=""/>
+      <property name="Part number" value="CL10A105KB8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33965e6a-bb11-4c70-99aa-4a793112acd4</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C15849</field>
+        <field name="Part number">CL10A105KB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C15849"/>
+      <property name="Description" value=""/>
+      <property name="Part number" value="CL10A105KB8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef614b06-e4a2-4bdb-8178-66461018f6e6</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C15849</field>
+        <field name="Part number">CL10A105KB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C15849"/>
+      <property name="Description" value=""/>
+      <property name="Part number" value="CL10A105KB8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>effd4212-e5d5-4835-9c7e-6c76d12595bc</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C15849</field>
+        <field name="Part number">CL10A105KB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C15849"/>
+      <property name="Part number" value="CL10A105KB8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e1eeced-416d-4ba3-a369-6904c8c68972</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>47u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C385907</field>
+        <field name="Part number">EMK316BBJ476ML-T</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C385907"/>
+      <property name="Description" value=""/>
+      <property name="Part number" value="EMK316BBJ476ML-T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>093f5409-ea47-4e12-84a7-9e92f4b442ca</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>47u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C385907</field>
+        <field name="Part number">EMK316BBJ476ML-T</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C385907"/>
+      <property name="Description" value=""/>
+      <property name="Part number" value="EMK316BBJ476ML-T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5460d12e-b907-40c3-ace7-78dbc29e2f53</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>47u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C385907</field>
+        <field name="Part number">EMK316BBJ476ML-T</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C385907"/>
+      <property name="Description" value=""/>
+      <property name="Part number" value="EMK316BBJ476ML-T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30ef200a-dd52-400e-9285-cff51bed3961</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C15849</field>
+        <field name="Part number">CL10A105KB8NNNC</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C15849"/>
+      <property name="Description" value=""/>
+      <property name="Part number" value="CL10A105KB8NNNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a561b741-0325-45e2-9e1e-c7b401230d49</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>47u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C385907</field>
+        <field name="Part number">EMK316BBJ476ML-T</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C385907"/>
+      <property name="Description" value=""/>
+      <property name="Part number" value="EMK316BBJ476ML-T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7be47cf-1b69-4ee9-b7fd-5603495113e1</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>47u</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C385907</field>
+        <field name="Part number">EMK316BBJ476ML-T</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C385907"/>
+      <property name="Description" value=""/>
+      <property name="Part number" value="EMK316BBJ476ML-T"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4965574c-50de-4b40-aa85-f2fbb5d76ed8</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>100n</value>
+      <footprint>Capacitor_THT:C_Rect_L26.5mm_W8.5mm_P22.50mm_MKS4</footprint>
+      <fields>
+        <field name="LCSC part number">C2926846</field>
+        <field name="Part number">PHE820ED6100MR06L2</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC part number" value="C2926846"/>
+      <property name="Part number" value="PHE820ED6100MR06L2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5a4c043-d6fd-4ed1-b20c-771c87ac60c9</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>18V</value>
+      <footprint>Diode_SMD:D_SMC</footprint>
+      <fields>
+        <field name="LCSC part number">C135149</field>
+        <field name="Part number">SMCJ18CA-13-F</field>
+      </fields>
+      <libsource lib="Device" part="D_Zener_Small" description="Zener diode, small symbol"/>
+      <property name="LCSC part number" value="C135149"/>
+      <property name="Part number" value="SMCJ18CA-13-F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e04453b-6727-4056-8a4f-8b6aa4764ee5</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>18V</value>
+      <footprint>Diode_SMD:D_SMC</footprint>
+      <fields>
+        <field name="LCSC part number">C135149</field>
+        <field name="Part number">SMCJ18CA-13-F</field>
+      </fields>
+      <libsource lib="Device" part="D_Zener_Small" description="Zener diode, small symbol"/>
+      <property name="LCSC part number" value="C135149"/>
+      <property name="Part number" value="SMCJ18CA-13-F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8efc4f70-2659-4d18-b2ad-34d2a542d463</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>0.55Vf</value>
+      <footprint>Diode_SMD:D_SMC</footprint>
+      <fields>
+        <field name="LCSC part number">C134460</field>
+        <field name="Part number">B520C-13-F</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky_Small" description="Schottky diode, small symbol"/>
+      <property name="LCSC part number" value="C134460"/>
+      <property name="Part number" value="B520C-13-F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>763f0054-350a-4cd6-899b-3b754324cb11</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>0.55Vf</value>
+      <footprint>Diode_SMD:D_SMC</footprint>
+      <fields>
+        <field name="LCSC part number">C134460</field>
+        <field name="Part number">B520C-13-F</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky_Small" description="Schottky diode, small symbol"/>
+      <property name="LCSC part number" value="C134460"/>
+      <property name="Part number" value="B520C-13-F"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47a56b18-195e-4d78-a6d2-921eb979ca70</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D3.0mm</footprint>
+      <fields>
+        <field name="LCSC part number">C2927624</field>
+        <field name="Part number">204-10SUGC/S400-A5</field>
+      </fields>
+      <libsource lib="Device" part="LED_Small" description="Light emitting diode, small symbol"/>
+      <property name="LCSC part number" value="C2927624"/>
+      <property name="Part number" value="204-10SUGC/S400-A5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>475c382c-3be9-4aac-a386-7ec8e7ffb328</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC part number">C81598</field>
+        <field name="Part number">1N4148W</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC part number" value="C81598"/>
+      <property name="Description" value=""/>
+      <property name="Part number" value="1N4148W"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a495b8b-af85-4f43-81cf-f3c6110ceb31</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC part number">C81598</field>
+        <field name="Part number">1N4148W</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC part number" value="C81598"/>
+      <property name="Description" value=""/>
+      <property name="Part number" value="1N4148W"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f0ef666-8a04-48bb-8a70-912e9d0a0c8c</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>24V</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC part number">C118720</field>
+        <field name="Part number">MM1Z5252B</field>
+      </fields>
+      <libsource lib="Device" part="D_Zener_Small" description="Zener diode, small symbol"/>
+      <property name="LCSC part number" value="C118720"/>
+      <property name="Part number" value="MM1Z5252B"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c9085aa-9dff-4e8f-922b-b6f0d07b2ff8</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC part number">C81598</field>
+        <field name="Part number">1N4148W</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC part number" value="C81598"/>
+      <property name="Description" value=""/>
+      <property name="Part number" value="1N4148W"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf8230ff-db4c-42bc-8d00-8c6fd15ff58c</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>D</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="LCSC part number">C81598</field>
+        <field name="Part number">1N4148W</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="LCSC part number" value="C81598"/>
+      <property name="Description" value=""/>
+      <property name="Part number" value="1N4148W"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9497b4dc-830b-4980-91f6-1698df9a72fd</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>200mA</value>
+      <footprint>Fuse:Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open</footprint>
+      <fields>
+        <field name="LCSC part number">C58066</field>
+        <field name="Part number">0031.8201</field>
+      </fields>
+      <libsource lib="Device" part="Fuse_Small" description="Fuse, small symbol"/>
+      <property name="LCSC part number" value="C58066"/>
+      <property name="Part number" value="0031.8201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ea0d503-4d4d-4c1c-90df-744a6489c595</tstamps>
+    </comp>
+    <comp ref="F2">
+      <value>200mA</value>
+      <footprint>Fuse:Fuseholder_Cylinder-5x20mm_Schurter_0031_8201_Horizontal_Open</footprint>
+      <fields>
+        <field name="LCSC part number">C58066</field>
+        <field name="Part number">0031.8201</field>
+      </fields>
+      <libsource lib="Device" part="Fuse_Small" description="Fuse, small symbol"/>
+      <property name="LCSC part number" value="C58066"/>
+      <property name="Part number" value="0031.8201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>537faaf0-e87a-4830-abdf-9dbd3c7881b1</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>Earth</value>
+      <footprint>MountingHole:MountingHole_4.3mm_M4_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ec41a9f-1fe2-4e25-9577-04bf7518f502</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>L_In</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060c010b8</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>L_In</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed328e31-8db9-4601-8195-e5006c5982d4</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>HPOut</value>
+      <footprint>Connector_Audio:Jack_6.35mm_Neutrik_NMJ6HCD2_Horizontal</footprint>
+      <fields>
+        <field name="LCSC part number">C368502</field>
+        <field name="Part number">NMJ6HCD2</field>
+      </fields>
+      <libsource lib="Connector" part="AudioJack3" description="Audio Jack, 3 Poles (Stereo / TRS)"/>
+      <property name="LCSC part number" value="C368502"/>
+      <property name="Part number" value="NMJ6HCD2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fd6c8c8-7a31-4957-be3b-afcfd0bc2f2e</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>AC_In</value>
+      <footprint>Connector_JST:JST_VH_B3P-VH_1x03_P3.96mm_Vertical</footprint>
+      <fields>
+        <field name="LCSC part number">C160316</field>
+        <field name="Part number">B3P-VH(LF)(SN)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="LCSC part number" value="C160316"/>
+      <property name="Part number" value="B3P-VH(LF)(SN)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>15e29ac9-f47e-45fe-997e-3f9dee62b2ab</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>C93402</value>
+      <footprint>Relay_THT:Relay_DPDT_Omron_G5V-2</footprint>
+      <datasheet>http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_2.pdf</datasheet>
+      <fields>
+        <field name="LCSC part number">C128021</field>
+        <field name="Part number">C93402</field>
+      </fields>
+      <libsource lib="Relay" part="G5V-2" description="Relay Miniature Omron DPDT"/>
+      <property name="Part number" value="C93402"/>
+      <property name="LCSC part number" value="C128021"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eec8704d-eb23-4ce1-b880-97c7607810f1</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>31 turns</value>
+      <footprint>X-Altra HPA1:L_Toroid_D15mm_W4mm</footprint>
+      <fields>
+        <field name="LCSC part number">N/A</field>
+        <field name="Part number">N/A</field>
+      </fields>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="LCSC part number" value="N/A"/>
+      <property name="Part number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>301655b0-fa90-467b-9745-b7830ceb3a5a</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>31 turns</value>
+      <footprint>X-Altra HPA1:L_Toroid_D15mm_W4mm</footprint>
+      <fields>
+        <field name="LCSC part number">N/A</field>
+        <field name="Part number">N/A</field>
+      </fields>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="LCSC part number" value="N/A"/>
+      <property name="Part number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bf2ab33-ee73-4c8c-9b12-4ed2c3dcfa3d</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>100u</value>
+      <footprint>Inductor_SMD:L_TDK_SLF7032</footprint>
+      <fields>
+        <field name="LCSC part number">C2045491</field>
+        <field name="Part number">SPM7054VT-101M-D</field>
+      </fields>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="LCSC part number" value="C2045491"/>
+      <property name="Part number" value="SPM7054VT-101M-D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3afdb8be-29c7-445a-af42-1a3dd57fe4d6</tstamps>
+    </comp>
+    <comp ref="L4">
+      <value>100u</value>
+      <footprint>Inductor_SMD:L_TDK_SLF7032</footprint>
+      <fields>
+        <field name="LCSC part number">C2045491</field>
+        <field name="Part number">SPM7054VT-101M-D</field>
+      </fields>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="LCSC part number" value="C2045491"/>
+      <property name="Part number" value="SPM7054VT-101M-D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abeeb399-e833-404f-822c-03fa13e8856e</tstamps>
+    </comp>
+    <comp ref="L5">
+      <value>100u</value>
+      <footprint>Inductor_SMD:L_TDK_SLF7032</footprint>
+      <fields>
+        <field name="LCSC part number">C2045491</field>
+        <field name="Part number">SPM7054VT-101M-D</field>
+      </fields>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="LCSC part number" value="C2045491"/>
+      <property name="Part number" value="SPM7054VT-101M-D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d25f7265-2b86-47d1-a83e-baada9d833d8</tstamps>
+    </comp>
+    <comp ref="L6">
+      <value>100u</value>
+      <footprint>Inductor_SMD:L_TDK_SLF7032</footprint>
+      <fields>
+        <field name="LCSC part number">C2045491</field>
+        <field name="Part number">SPM7054VT-101M-D</field>
+      </fields>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <property name="LCSC part number" value="C2045491"/>
+      <property name="Part number" value="SPM7054VT-101M-D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3501f945-dec2-4e10-87d7-67475ac9ebb9</tstamps>
+    </comp>
+    <comp ref="PS1">
+      <value>RAC10-18SK</value>
+      <footprint>Converter_ACDC:Converter_ACDC_Recom_RAC20-xxSK_THT</footprint>
+      <datasheet>https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf</datasheet>
+      <fields>
+        <field name="LCSC part number">N/A</field>
+        <field name="Part number">RAC10-18SK</field>
+      </fields>
+      <libsource lib="Converter_ACDC" part="RAC20-15SK" description="20 Watt Single Output AC/DC power supply 15V 1333mA"/>
+      <property name="Part number" value="RAC10-18SK"/>
+      <property name="LCSC part number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6478f53-c275-4590-95a2-f76a01796494</tstamps>
+    </comp>
+    <comp ref="PS2">
+      <value>RAC10-18SK</value>
+      <footprint>Converter_ACDC:Converter_ACDC_Recom_RAC20-xxSK_THT</footprint>
+      <datasheet>https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf</datasheet>
+      <fields>
+        <field name="LCSC part number">N/A</field>
+        <field name="Part number">RAC10-18SK</field>
+      </fields>
+      <libsource lib="Converter_ACDC" part="RAC20-15SK" description="20 Watt Single Output AC/DC power supply 15V 1333mA"/>
+      <property name="Part number" value="RAC10-18SK"/>
+      <property name="LCSC part number" value="N/A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5282c201-1916-44fe-943a-e2c384bbf757</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>BC850C</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <fields>
+        <field name="LCSC part number">C80071</field>
+        <field name="Part number">BC850C,215</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="BC850" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <property name="LCSC part number" value="C80071"/>
+      <property name="Part number" value="BC850C,215"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>add2f025-1fb2-4b54-b1f3-7d31a93c725c</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>MJE15032</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <fields>
+        <field name="LCSC part number">C134071</field>
+        <field name="Part number">MJE15032G</field>
+      </fields>
+      <libsource lib="Device" part="Q_NPN_BCE" description="NPN transistor, base/collector/emitter"/>
+      <property name="LCSC part number" value="C134071"/>
+      <property name="Part number" value="MJE15032G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98fd5dc1-80f8-4719-b7ee-dd8689bf346e</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>MJE15033</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <fields>
+        <field name="LCSC part number">C134072</field>
+        <field name="Part number">MJE15033G</field>
+      </fields>
+      <libsource lib="Device" part="Q_PNP_BCE" description="PNP transistor, base/collector/emitter"/>
+      <property name="LCSC part number" value="C134072"/>
+      <property name="Part number" value="MJE15033G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66992622-580f-4d15-b6c0-76af0589db9c</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>BC850C</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <fields>
+        <field name="LCSC part number">C80071</field>
+        <field name="Part number">BC850C,215</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="BC850" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <property name="LCSC part number" value="C80071"/>
+      <property name="Part number" value="BC850C,215"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26fde58a-c5a1-4913-a865-77affaa346ef</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>MJE15032</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <fields>
+        <field name="LCSC part number">C134071</field>
+        <field name="Part number">MJE15032G</field>
+      </fields>
+      <libsource lib="Device" part="Q_NPN_BCE" description="NPN transistor, base/collector/emitter"/>
+      <property name="LCSC part number" value="C134071"/>
+      <property name="Part number" value="MJE15032G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19815156-c3e0-4011-81c2-47f6ebea6ad0</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>MJE15033</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <fields>
+        <field name="LCSC part number">C134072</field>
+        <field name="Part number">MJE15033G</field>
+      </fields>
+      <libsource lib="Device" part="Q_PNP_BCE" description="PNP transistor, base/collector/emitter"/>
+      <property name="LCSC part number" value="C134072"/>
+      <property name="Part number" value="MJE15033G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3508bed9-ce4b-4786-ad40-7e38abc19f4c</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>BC850C</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <fields>
+        <field name="LCSC part number">C80071</field>
+        <field name="Part number">BC850C,215</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="BC847" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <property name="LCSC part number" value="C80071"/>
+      <property name="Part number" value="BC850C,215"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bdd2ff3e-d5dd-4d5b-871a-69bcd542b252</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>BC860C</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC857SERIES_BC858SERIES_BC859SERIES_BC860SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541da0e3a1661</datasheet>
+      <fields>
+        <field name="LCSC part number">C454976</field>
+        <field name="Part number">BC860C,215</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="BC860" description="0.1A Ic, 45V Vce, PNP Small Signal Transistor, SOT-23"/>
+      <property name="Part number" value="BC860C,215"/>
+      <property name="LCSC part number" value="C454976"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee1741b6-1995-49db-93d1-b1b0e5a31a49</tstamps>
+    </comp>
+    <comp ref="Q9">
+      <value>BC850C</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <fields>
+        <field name="LCSC part number">C80071</field>
+        <field name="Part number">BC850C,215</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="BC847" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <property name="LCSC part number" value="C80071"/>
+      <property name="Part number" value="BC850C,215"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d1e4952-2d95-4aae-bf9b-4474a17269a0</tstamps>
+    </comp>
+    <comp ref="Q10">
+      <value>AO3400A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC part number">C20917</field>
+        <field name="Part number">AO3400A</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="2N7002" description="0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"/>
+      <property name="LCSC part number" value="C20917"/>
+      <property name="Part number" value="AO3400A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c68c738f-e6be-409d-8697-530ce58f780e</tstamps>
+    </comp>
+    <comp ref="Q11">
+      <value>BC850C</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</datasheet>
+      <fields>
+        <field name="LCSC part number">C80071</field>
+        <field name="Part number">BC850C,215</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="BC847" description="0.1A Ic, 45V Vce, NPN Transistor, SOT-23"/>
+      <property name="LCSC part number" value="C80071"/>
+      <property name="Part number" value="BC850C,215"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5bc5184-a346-4cc8-854b-cf7f16b1d95e</tstamps>
+    </comp>
+    <comp ref="Q12">
+      <value>BC860C</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC860-D.pdf</datasheet>
+      <fields>
+        <field name="LCSC part number">C454976</field>
+        <field name="Part number">BC860C,215</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="BC857" description="0.1A Ic, 45V Vce, PNP Transistor, SOT-23"/>
+      <property name="LCSC part number" value="C454976"/>
+      <property name="Part number" value="BC860C,215"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2f9ad8f-ac82-4af2-a127-1dcce9dfd5f2</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206BRD072K2L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206BRD072K2L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061c0e2fe</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>12k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206FRE0712KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206FRE0712KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d22b824e-1376-4f95-b5d2-a20a067374be</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>2.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C870633</field>
+        <field name="Part number">RT1206BRD072K7L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C870633"/>
+      <property name="Part number" value="RT1206BRD072K7L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e356f63-f254-4b2e-a797-6cd0cf1ef142</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>121</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C136881</field>
+        <field name="Part number">RT1206DRD07121RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C136881"/>
+      <property name="Part number" value="RT1206DRD07121RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5210ac00-e4bb-45f9-ae40-2522f36d5535</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206DRD074K7L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206DRD074K7L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d54b3fc4-6f68-4213-8536-9aed25bbea29</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206BRD072K2L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206BRD072K2L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a49ff8e8-9bdf-487b-8902-bb47efc93764</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206BRD072K2L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206BRD072K2L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d16246e-c9a8-43e0-ab24-00176fc62307</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206BRD072K2L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206BRD072K2L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89f0c0bd-201a-43f8-9407-a4b40b13d775</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>121</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C136881</field>
+        <field name="Part number">RT1206DRD07121RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C136881"/>
+      <property name="Part number" value="RT1206DRD07121RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9020a11e-1926-46e6-a7ab-0b2db5ac0ff4</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206BRD072K2L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206BRD072K2L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fef36a83-7b78-448b-8f4c-4483c5d37907</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206DRD074K7L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206DRD074K7L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1f06fe63-1948-4d2e-9ba2-910df7a21a6a</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206DRD074K7L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206DRD074K7L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c16478f2-7602-4223-b7b9-e7e2100fca62</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>560</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206BRD07560RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206BRD07560RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f7d5054-703d-4aeb-a23d-f960a5c894ac</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206BRD072K2L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206BRD072K2L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd697d6f-2a4d-4d74-9579-d4cdfaa7fccd</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C513714</field>
+        <field name="Part number">RT1206BRD071RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C513714"/>
+      <property name="Part number" value="RT1206BRD071RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5fe65d89-43ef-4a13-aa28-d682c02c626f</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C513714</field>
+        <field name="Part number">RT1206BRD071RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C513714"/>
+      <property name="Part number" value="RT1206BRD071RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3fc5083b-45a2-4397-b0ed-f5b4f434169a</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C513714</field>
+        <field name="Part number">RT1206BRD071RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C513714"/>
+      <property name="Part number" value="RT1206BRD071RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73a3f31d-3de6-46bf-ae12-8cead019ab3a</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C513714</field>
+        <field name="Part number">RT1206BRD071RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C513714"/>
+      <property name="Part number" value="RT1206BRD071RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fd4a455-fe4c-4c2b-8150-c7de5fe97b7a</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C513714</field>
+        <field name="Part number">RT1206BRD071RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C513714"/>
+      <property name="Part number" value="RT1206BRD071RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6109b457-801c-4c4f-a906-a1b204f3018b</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C513714</field>
+        <field name="Part number">RT1206BRD071RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C513714"/>
+      <property name="Part number" value="RT1206BRD071RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c527224f-f1f3-4547-93ee-585d9ea427f8</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C513714</field>
+        <field name="Part number">RT1206BRD071RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C513714"/>
+      <property name="Part number" value="RT1206BRD071RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7aa9428-6f4f-45e8-a517-61bd9dbf809b</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C513714</field>
+        <field name="Part number">RT1206BRD071RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C513714"/>
+      <property name="Part number" value="RT1206BRD071RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>786af1ae-6c31-47fe-8939-b6fe4ac424c2</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>3</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C326707</field>
+        <field name="Part number">RT1206FRD073RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C326707"/>
+      <property name="Part number" value="RT1206FRD073RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a0f0b06-e11a-4a29-9d0c-20e526d62ad1</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>3</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C326707</field>
+        <field name="Part number">RT1206FRD073RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C326707"/>
+      <property name="Part number" value="RT1206FRD073RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b59105c2-6e17-42aa-a511-d66f8202d41c</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>3</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C326707</field>
+        <field name="Part number">RT1206FRD073RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C326707"/>
+      <property name="Part number" value="RT1206FRD073RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7a5cd16-d0bf-4ab1-9826-4fb12a2f49c4</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>3</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C326707</field>
+        <field name="Part number">RT1206FRD073RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C326707"/>
+      <property name="Part number" value="RT1206FRD073RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f2b3e57-ae21-475b-ad9a-e2bb04e03fad</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206BRD072K2L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206BRD072K2L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d797d7fb-be65-4d8d-a05b-4dc531756018</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>12k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206FRE0712KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206FRE0712KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c23e3f1e-9328-4ff2-a5dd-0900a7e6fd06</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>2.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C870633</field>
+        <field name="Part number">RT1206BRD072K7L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C870633"/>
+      <property name="Part number" value="RT1206BRD072K7L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a74b4bb3-0098-48fe-812b-47b4e7005d18</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>121</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C136881</field>
+        <field name="Part number">RT1206DRD07121RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C136881"/>
+      <property name="Part number" value="RT1206DRD07121RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58276ad0-89ab-4673-9c22-ac573d937741</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206DRD074K7L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206DRD074K7L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1736680a-972b-4d4f-b00e-3a9225c8b7c4</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206BRD072K2L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206BRD072K2L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06a83adc-639e-4ea0-a155-c4ff651eb55b</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206BRD072K2L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206BRD072K2L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abd77222-8b6f-42b0-b223-14be76c344e1</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206BRD072K2L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206BRD072K2L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7c1921b5-b8c0-4ccb-a767-d83d9ce91f2d</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>121</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C136881</field>
+        <field name="Part number">RT1206DRD07121RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C136881"/>
+      <property name="Part number" value="RT1206DRD07121RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bcc073bd-c308-43d5-a8bd-4f1a8775c5bf</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206BRD072K2L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206BRD072K2L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ca724b0-1266-4537-8c7b-5c723c75abff</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206DRD074K7L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206DRD074K7L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24fca1fa-87f1-416b-8f19-1090cb2ed315</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206DRD074K7L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206DRD074K7L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>181b2130-44e1-47f2-8719-cd9589e20dd2</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>560</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206BRD07560RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206BRD07560RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12cb360d-ecfb-4254-86ca-6c54614a09f8</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>2.2k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206BRD072K2L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206BRD072K2L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>894c9d53-2851-4d0a-83dd-5824096b2e89</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C513714</field>
+        <field name="Part number">RT1206BRD071RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C513714"/>
+      <property name="Part number" value="RT1206BRD071RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46c6d471-f9ba-4f80-8a5b-748696271a6c</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C513714</field>
+        <field name="Part number">RT1206BRD071RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C513714"/>
+      <property name="Part number" value="RT1206BRD071RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>acff89ae-11c0-4aa5-9909-ffa9f00e74a3</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C513714</field>
+        <field name="Part number">RT1206BRD071RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C513714"/>
+      <property name="Part number" value="RT1206BRD071RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20f27ea6-927e-4980-8754-e9298148b114</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C513714</field>
+        <field name="Part number">RT1206BRD071RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C513714"/>
+      <property name="Part number" value="RT1206BRD071RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ffa7f542-ef7c-444f-b13f-0fa7622c2bcd</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C513714</field>
+        <field name="Part number">RT1206BRD071RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C513714"/>
+      <property name="Part number" value="RT1206BRD071RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fa4b4bb-6327-4ea5-be2e-2c2f941c6325</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C513714</field>
+        <field name="Part number">RT1206BRD071RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C513714"/>
+      <property name="Part number" value="RT1206BRD071RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>370c1f04-8a7e-4d6b-b898-3ac8ecc9f227</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C513714</field>
+        <field name="Part number">RT1206BRD071RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C513714"/>
+      <property name="Part number" value="RT1206BRD071RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6c5530cd-410e-4b0e-8470-0cd9c246d4c7</tstamps>
+    </comp>
+    <comp ref="R48">
+      <value>1</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C513714</field>
+        <field name="Part number">RT1206BRD071RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C513714"/>
+      <property name="Part number" value="RT1206BRD071RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f1d4f23-6e01-4084-a6f6-367f695a1faa</tstamps>
+    </comp>
+    <comp ref="R49">
+      <value>3</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C326707</field>
+        <field name="Part number">RT1206FRD073RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C326707"/>
+      <property name="Part number" value="RT1206FRD073RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20d23bdb-02e5-4f3e-9e35-4fad9344c3d1</tstamps>
+    </comp>
+    <comp ref="R50">
+      <value>3</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C326707</field>
+        <field name="Part number">RT1206FRD073RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C326707"/>
+      <property name="Part number" value="RT1206FRD073RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69932c37-a3fc-4cdf-8fd2-23d91a2f8aa9</tstamps>
+    </comp>
+    <comp ref="R51">
+      <value>3</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C326707</field>
+        <field name="Part number">RT1206FRD073RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C326707"/>
+      <property name="Part number" value="RT1206FRD073RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85403cb4-71a1-44e0-b8b7-2a486fd3c324</tstamps>
+    </comp>
+    <comp ref="R52">
+      <value>3</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C326707</field>
+        <field name="Part number">RT1206FRD073RL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C326707"/>
+      <property name="Part number" value="RT1206FRD073RL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ae67af18-f0db-4227-9c5a-e0f5b258d61c</tstamps>
+    </comp>
+    <comp ref="R53">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206DRD074K7L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206DRD074K7L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a923bb61-58c2-4811-9863-8b0e16892b59</tstamps>
+    </comp>
+    <comp ref="R54">
+      <value>4.99</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C326584</field>
+        <field name="Part number">RT1206BRD074R99L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C326584"/>
+      <property name="Part number" value="RT1206BRD074R99L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9352096-1dbd-4b34-8959-ea42ca8366a5</tstamps>
+    </comp>
+    <comp ref="R55">
+      <value>4.99</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C326584</field>
+        <field name="Part number">RT1206BRD074R99L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C326584"/>
+      <property name="Part number" value="RT1206BRD074R99L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d91cf8f-15a1-4c2d-a1ab-2b1a0b3326e5</tstamps>
+    </comp>
+    <comp ref="R56">
+      <value>4.99</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C326584</field>
+        <field name="Part number">RT1206BRD074R99L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C326584"/>
+      <property name="Part number" value="RT1206BRD074R99L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>edb26f2a-0829-4711-8db3-4d325773ab0c</tstamps>
+    </comp>
+    <comp ref="R57">
+      <value>4.99</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C326584</field>
+        <field name="Part number">RT1206BRD074R99L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C326584"/>
+      <property name="Part number" value="RT1206BRD074R99L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9aeee77-468e-4786-89fe-aef66551f75f</tstamps>
+    </comp>
+    <comp ref="R58">
+      <value>4.99</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C326584</field>
+        <field name="Part number">RT1206BRD074R99L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C326584"/>
+      <property name="Part number" value="RT1206BRD074R99L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04e754d3-5e5c-4efe-9400-488daf445677</tstamps>
+    </comp>
+    <comp ref="R59">
+      <value>4.99</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C326584</field>
+        <field name="Part number">RT1206BRD074R99L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C326584"/>
+      <property name="Part number" value="RT1206BRD074R99L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05e7596f-844f-4ccf-ae70-032529c45b51</tstamps>
+    </comp>
+    <comp ref="R60">
+      <value>4.99</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C326584</field>
+        <field name="Part number">RT1206BRD074R99L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C326584"/>
+      <property name="Part number" value="RT1206BRD074R99L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>992e5d00-f762-4d05-b1d5-e50af59ee7dc</tstamps>
+    </comp>
+    <comp ref="R61">
+      <value>4.99</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C326584</field>
+        <field name="Part number">RT1206BRD074R99L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C326584"/>
+      <property name="Part number" value="RT1206BRD074R99L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6da82e35-641a-4658-8ed5-a14e62142d0a</tstamps>
+    </comp>
+    <comp ref="R62">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C705072</field>
+        <field name="Part number">RT1206FRD0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C705072"/>
+      <property name="Part number" value="RT1206FRD0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b188f44-cfa5-4353-9a34-42d0a24240b3</tstamps>
+    </comp>
+    <comp ref="R63">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C705072</field>
+        <field name="Part number">RT1206FRD0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C705072"/>
+      <property name="Part number" value="RT1206FRD0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ca02ff7-8933-4827-abae-49d61459a010</tstamps>
+    </comp>
+    <comp ref="R64">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C375528</field>
+        <field name="Part number">RT1206FRE071ML</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C375528"/>
+      <property name="Part number" value="RT1206FRE071ML"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>734173fb-4cf1-4af6-85ae-306d0a8241b4</tstamps>
+    </comp>
+    <comp ref="R65">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C326828</field>
+        <field name="Part number">RT1206FRD07100KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C326828"/>
+      <property name="Part number" value="RT1206FRD07100KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38e42fe2-42e2-4671-96f2-7b36844bf69e</tstamps>
+    </comp>
+    <comp ref="R66">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206DRD074K7L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206DRD074K7L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1a55c9dc-1076-4650-8093-cdc8dd4a6efd</tstamps>
+    </comp>
+    <comp ref="R67">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206DRD074K7L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206DRD074K7L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47d0f72e-60ee-4d27-80ed-72ebdedb841f</tstamps>
+    </comp>
+    <comp ref="R68">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C706405</field>
+        <field name="Part number">RT1206BRD071KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C706405"/>
+      <property name="Part number" value="RT1206BRD071KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7cf48b72-0aaa-4164-8d0f-26349bdc1ff7</tstamps>
+    </comp>
+    <comp ref="R69">
+      <value>390k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206BRD07392KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206BRD07392KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4793343-9527-4ae9-bc63-391d36c7d2d4</tstamps>
+    </comp>
+    <comp ref="R70">
+      <value>390k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206BRD07392KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206BRD07392KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec515fb5-06db-4407-9144-8ddf368f99b4</tstamps>
+    </comp>
+    <comp ref="R71">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C705072</field>
+        <field name="Part number">RT1206FRD0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C705072"/>
+      <property name="Part number" value="RT1206FRD0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5ce04d7-26f2-40c9-b11a-632125b90b6c</tstamps>
+    </comp>
+    <comp ref="R72">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C705072</field>
+        <field name="Part number">RT1206FRD0710KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C705072"/>
+      <property name="Part number" value="RT1206FRD0710KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1020ab41-b4f9-4000-8254-601f43b167af</tstamps>
+    </comp>
+    <comp ref="R73">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="Part number">RT1206DRD074K7L</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value=""/>
+      <property name="Part number" value="RT1206DRD074K7L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4962b940-8de3-4423-9d84-78ab2d3bb7ca</tstamps>
+    </comp>
+    <comp ref="R74">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C706405</field>
+        <field name="Part number">RT1206BRD071KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C706405"/>
+      <property name="Part number" value="RT1206BRD071KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e0c4c70-aa94-4346-babf-00305a701ae0</tstamps>
+    </comp>
+    <comp ref="R75">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <fields>
+        <field name="LCSC part number">C706405</field>
+        <field name="Part number">RT1206BRD071KL</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC part number" value="C706405"/>
+      <property name="Part number" value="RT1206BRD071KL"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23e8d764-be46-49a2-9f48-1563c75d8fd0</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>10k</value>
+      <footprint>X-Altra HPA1:ALPS_RK27112</footprint>
+      <fields>
+        <field name="LCSC part number">C470507</field>
+        <field name="Part number">RK27112A00AK</field>
+      </fields>
+      <libsource lib="Ariamelon" part="R_Potentiometer_Small_Dual_Separate" description="Potentiometer"/>
+      <property name="LCSC part number" value="C470507"/>
+      <property name="Part number" value="RK27112A00AK"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5294ceff-1495-4038-9487-c26b3615d580 411c2ed7-af9c-4ab6-b7c9-da8ba569c222</tstamps>
+    </comp>
+    <comp ref="RV2">
+      <value>500k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Vishay_T73YP_Vertical</footprint>
+      <fields>
+        <field name="LCSC part number">C125021</field>
+        <field name="Part number">3362P-1-504</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Small" description="Potentiometer"/>
+      <property name="LCSC part number" value="C125021"/>
+      <property name="Part number" value="3362P-1-504"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cba6d134-0dc3-46a1-add1-ecd48e2eb556</tstamps>
+    </comp>
+    <comp ref="RV3">
+      <value>1k</value>
+      <footprint>Potentiometer_THT:Potentiometer_Bourns_3266W_Vertical</footprint>
+      <fields>
+        <field name="LCSC part number">C123431</field>
+        <field name="Part number">3266W-1-102</field>
+      </fields>
+      <libsource lib="Device" part="R_Potentiometer_Small" description="Potentiometer"/>
+      <property name="LCSC part number" value="C123431"/>
+      <property name="Part number" value="3266W-1-102"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4af124f5-9955-4f15-a479-15edd41ddf56</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>OPA1656</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm4562.pdf</datasheet>
+      <fields>
+        <field name="LCSC part number">C1849431</field>
+        <field name="Part number">OPA1656IDR</field>
+      </fields>
+      <libsource lib="Amplifier_Operational" part="LM4562" description="Dual High-Performance, High-Fidelity Audio Operational Amplifier, DIP-8/SOIC-8/TO-99-8"/>
+      <property name="LCSC part number" value="C1849431"/>
+      <property name="Part number" value="OPA1656IDR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000060b6fa9b 00000000-0000-0000-0000-000060e12629 00000000-0000-0000-0000-000060b63e38</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>OPA1656</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lm4562.pdf</datasheet>
+      <fields>
+        <field name="LCSC part number">C1849431</field>
+        <field name="Part number">OPA1656IDR</field>
+      </fields>
+      <libsource lib="Amplifier_Operational" part="LM4562" description="Dual High-Performance, High-Fidelity Audio Operational Amplifier, DIP-8/SOIC-8/TO-99-8"/>
+      <property name="LCSC part number" value="C1849431"/>
+      <property name="Part number" value="OPA1656IDR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d00e29da-f641-4b18-8d1d-2d2b81013994 691a7fc9-d5ec-4250-8d44-67d4b481ec27 4bad07a3-1135-4c78-b2dc-6e38b108a52e</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>TL082</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl081.pdf</datasheet>
+      <fields>
+        <field name="LCSC part number">C190361</field>
+        <field name="Part number">TL082BCDT</field>
+      </fields>
+      <libsource lib="Amplifier_Operational" part="TL082" description="Dual JFET-Input Operational Amplifiers, DIP-8/SOIC-8/SSOP-8"/>
+      <property name="LCSC part number" value="C190361"/>
+      <property name="Part number" value="TL082BCDT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="X-Altra HPA1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fafbd049-a2ce-41a5-b8ed-2317e06632ed 82bbbce9-ccfe-4700-8d77-a13c3c367ba7 6d516a86-b5aa-40ec-a6a1-df42b369e7c6</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Operational" part="LM4562">
+      <description>Dual High-Performance, High-Fidelity Audio Operational Amplifier, DIP-8/SOIC-8/TO-99-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm4562.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TO*99*</fp>
+        <fp>OnSemi*Micro8*</fp>
+        <fp>TSSOP*3x3mm*P0.65mm*</fp>
+        <fp>TSSOP*4.4x3mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.65mm*</fp>
+        <fp>SSOP*3.9x4.9mm*P0.635mm*</fp>
+        <fp>LFCSP*2x2mm*P0.5mm*</fp>
+        <fp>*SIP*</fp>
+        <fp>SOIC*5.3x6.2mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM4562</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lm4562.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Amplifier_Operational" part="TL082">
+      <description>Dual JFET-Input Operational Amplifiers, DIP-8/SOIC-8/SSOP-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tl081.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TO*99*</fp>
+        <fp>OnSemi*Micro8*</fp>
+        <fp>TSSOP*3x3mm*P0.65mm*</fp>
+        <fp>TSSOP*4.4x3mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.65mm*</fp>
+        <fp>SSOP*3.9x4.9mm*P0.635mm*</fp>
+        <fp>LFCSP*2x2mm*P0.5mm*</fp>
+        <fp>*SIP*</fp>
+        <fp>SOIC*5.3x6.2mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL082</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tl081.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Ariamelon" part="R_Potentiometer_Small_Dual_Separate">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_Small_Dual_Separate</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="AudioJack3">
+      <description>Audio Jack, 3 Poles (Stereo / TRS)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AudioJack3</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="R" name="" type="passive"/>
+        <pin num="S" name="" type="passive"/>
+        <pin num="T" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Converter_ACDC" part="RAC20-15SK">
+      <description>20 Watt Single Output AC/DC power supply 15V 1333mA</description>
+      <docs>https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf</docs>
+      <footprints>
+        <fp>Converter*ACDC*Recom*RAC20*SK*THT*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">PS</field>
+        <field name="Value">RAC20-15SK</field>
+        <field name="Footprint">Converter_ACDC:Converter_ACDC_Recom_RAC20-xxSK_THT</field>
+        <field name="Datasheet">https://recom-power.com/pdf/Powerline_AC-DC/RAC20-K.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AC(N)" type="power_in"/>
+        <pin num="2" name="AC(L)" type="power_in"/>
+        <pin num="4" name="-Vout" type="power_out"/>
+        <pin num="5" name="+Vout" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small">
+      <description>Polarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky_Small">
+      <description>Schottky diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener_Small">
+      <description>Zener diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse_Small">
+      <description>Fuse, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_Small">
+      <description>Light emitting diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Small">
+      <description>Inductor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NPN_BCE">
+      <description>NPN transistor, base/collector/emitter</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NPN_BCE</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_PNP_BCE">
+      <description>PNP transistor, base/collector/emitter</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_PNP_BCE</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer_Small">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Relay" part="G5V-2">
+      <description>Relay Miniature Omron DPDT</description>
+      <docs>http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_2.pdf</docs>
+      <footprints>
+        <fp>Relay*DPDT*Omron*G5V*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">G5V-2</field>
+        <field name="Footprint">Relay_THT:Relay_DPDT_Omron_G5V-2</field>
+        <field name="Datasheet">http://omronfs.omron.com/en_US/ecb/products/pdf/en-g5v_2.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="11" name="" type="passive"/>
+        <pin num="13" name="" type="passive"/>
+        <pin num="16" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="BC847">
+      <description>0.1A Ic, 45V Vce, NPN Transistor, SOT-23</description>
+      <docs>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC847</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="BC850">
+      <description>0.1A Ic, 45V Vce, NPN Transistor, SOT-23</description>
+      <docs>http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC850</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="BC857">
+      <description>0.1A Ic, 45V Vce, PNP Transistor, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/BC860-D.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC857</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/BC860-D.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="BC860">
+      <description>0.1A Ic, 45V Vce, PNP Small Signal Transistor, SOT-23</description>
+      <docs>http://www.infineon.com/dgdl/Infineon-BC857SERIES_BC858SERIES_BC859SERIES_BC860SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541da0e3a1661</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC860</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.infineon.com/dgdl/Infineon-BC857SERIES_BC858SERIES_BC859SERIES_BC860SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541da0e3a1661</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="2N7002">
+      <description>0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23</description>
+      <docs>https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N7002</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Operational">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Amplifier_Operational.kicad_sym</uri>
+    </library>
+    <library logical="Ariamelon">
+      <uri>E:/Documents/GitHub/Kicad-Library/Ariamelon.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Converter_ACDC">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Converter_ACDC.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Relay">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Relay.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_BJT.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+12V">
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q12" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q7" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R69" pin="1" pintype="passive"/>
+      <node ref="R71" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="2" name="+15V">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="L5" pin="2" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="Q5" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="3" name="-12V">
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="K1" pin="1" pintype="passive"/>
+      <node ref="Q8" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R72" pin="2" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="4" name="-15V">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="L6" pin="1" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="Q6" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="5" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="S" pintype="passive"/>
+      <node ref="PS1" pin="4" pinfunction="-Vout" pintype="power_out"/>
+      <node ref="PS2" pin="5" pinfunction="+Vout" pintype="power_out"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R64" pin="1" pintype="passive"/>
+      <node ref="R74" pin="1" pintype="passive"/>
+      <node ref="R75" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RV1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="6" name="GND1">
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q10" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q11" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="Q9" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R70" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pintype="output"/>
+      <node ref="U3" pin="2" pinfunction="-" pintype="input"/>
+      <node ref="U3" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="7" name="GNDPWR">
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R64" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="L_Out">
+      <node ref="K1" pin="4" pintype="passive"/>
+      <node ref="L1" pin="2" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R63" pin="1" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="output"/>
+    </net>
+    <net code="12" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pintype="output"/>
+    </net>
+    <net code="14" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="15" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(C12-Pad1)">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(C13-Pad1)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="20" name="Net-(C13-Pad2)">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="output"/>
+    </net>
+    <net code="21" name="Net-(C14-Pad2)">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="22" name="Net-(C15-Pad1)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="U2" pin="7" pintype="output"/>
+    </net>
+    <net code="23" name="Net-(C15-Pad2)">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(C16-Pad1)">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q5" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(C16-Pad2)">
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q6" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(C17-Pad2)">
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(C23-Pad1)">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="L3" pin="2" pintype="passive"/>
+      <node ref="R58" pin="1" pintype="passive"/>
+      <node ref="R59" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(C24-Pad2)">
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="L4" pin="1" pintype="passive"/>
+      <node ref="R60" pin="1" pintype="passive"/>
+      <node ref="R61" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(C31-Pad1)">
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R62" pin="2" pintype="passive"/>
+      <node ref="R63" pin="2" pintype="passive"/>
+      <node ref="R65" pin="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(C31-Pad2)">
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="R65" pin="2" pintype="passive"/>
+      <node ref="R68" pin="1" pintype="passive"/>
+      <node ref="U3" pin="7" pintype="output"/>
+    </net>
+    <net code="31" name="Net-(C33-Pad1)">
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="Q11" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="Q9" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R68" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(C34-Pad1)">
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q10" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="Q11" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q9" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="RV2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R54" pin="1" pintype="passive"/>
+      <node ref="R55" pin="1" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R56" pin="1" pintype="passive"/>
+      <node ref="R57" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R53" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q7" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R66" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q8" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R67" pin="1" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D10-Pad1)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="K1" pin="16" pintype="passive"/>
+      <node ref="Q12" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(F1-Pad1)">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="F2" pin="1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(F1-Pad2)">
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="PS1" pin="2" pinfunction="AC(L)" pintype="power_in"/>
+    </net>
+    <net code="41" name="Net-(F2-Pad2)">
+      <node ref="F2" pin="2" pintype="passive"/>
+      <node ref="PS2" pin="2" pinfunction="AC(L)" pintype="power_in"/>
+    </net>
+    <net code="42" name="Net-(J1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(J2-Pad1)">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(J3-PadR)">
+      <node ref="J3" pin="R" pintype="passive"/>
+      <node ref="K1" pin="9" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(J3-PadT)">
+      <node ref="J3" pin="T" pintype="passive"/>
+      <node ref="K1" pin="8" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(J4-Pad3)">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="PS1" pin="1" pinfunction="AC(N)" pintype="power_in"/>
+      <node ref="PS2" pin="1" pinfunction="AC(N)" pintype="power_in"/>
+    </net>
+    <net code="47" name="Net-(K1-Pad6)">
+      <node ref="K1" pin="6" pintype="passive"/>
+      <node ref="R74" pin="2" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(K1-Pad11)">
+      <node ref="K1" pin="11" pintype="passive"/>
+      <node ref="R75" pin="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(L1-Pad1)">
+      <node ref="L1" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(L2-Pad1)">
+      <node ref="L2" pin="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="R43" pin="2" pintype="passive"/>
+      <node ref="R46" pin="1" pintype="passive"/>
+      <node ref="R47" pin="2" pintype="passive"/>
+      <node ref="R49" pin="2" pintype="passive"/>
+      <node ref="R50" pin="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(L3-Pad1)">
+      <node ref="L3" pin="1" pintype="passive"/>
+      <node ref="R54" pin="2" pintype="passive"/>
+      <node ref="R55" pin="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(L4-Pad2)">
+      <node ref="L4" pin="2" pintype="passive"/>
+      <node ref="R56" pin="2" pintype="passive"/>
+      <node ref="R57" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(L5-Pad1)">
+      <node ref="L5" pin="1" pintype="passive"/>
+      <node ref="R58" pin="2" pintype="passive"/>
+      <node ref="R59" pin="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(L6-Pad2)">
+      <node ref="L6" pin="2" pintype="passive"/>
+      <node ref="R60" pin="2" pintype="passive"/>
+      <node ref="R61" pin="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(Q2-Pad3)">
+      <node ref="Q2" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(Q3-Pad3)">
+      <node ref="Q3" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(Q5-Pad3)">
+      <node ref="Q5" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+      <node ref="R45" pin="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(Q6-Pad3)">
+      <node ref="Q6" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="R44" pin="1" pintype="passive"/>
+      <node ref="R48" pin="1" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(Q10-Pad3)">
+      <node ref="Q10" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R73" pin="1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(Q12-Pad1)">
+      <node ref="Q12" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R73" pin="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="63" name="Net-(R15-Pad1)">
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(R17-Pad1)">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(R23-Pad1)">
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(R30-Pad1)">
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(R30-Pad2)">
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="68" name="Net-(R41-Pad1)">
+      <node ref="R41" pin="1" pintype="passive"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+      <node ref="R45" pin="1" pintype="passive"/>
+      <node ref="R46" pin="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(R43-Pad1)">
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="R44" pin="2" pintype="passive"/>
+      <node ref="R47" pin="1" pintype="passive"/>
+      <node ref="R48" pin="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(R49-Pad1)">
+      <node ref="R49" pin="1" pintype="passive"/>
+      <node ref="R50" pin="1" pintype="passive"/>
+      <node ref="R51" pin="2" pintype="passive"/>
+      <node ref="R52" pin="2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(R69-Pad2)">
+      <node ref="R69" pin="2" pintype="passive"/>
+      <node ref="RV2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(R70-Pad1)">
+      <node ref="R70" pin="1" pintype="passive"/>
+      <node ref="RV2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(R71-Pad2)">
+      <node ref="R71" pin="2" pintype="passive"/>
+      <node ref="RV3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(R72-Pad1)">
+      <node ref="R72" pin="1" pintype="passive"/>
+      <node ref="RV3" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(RV3-Pad2)">
+      <node ref="RV3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="76" name="R_Out">
+      <node ref="K1" pin="13" pintype="passive"/>
+      <node ref="L2" pin="2" pintype="passive"/>
+      <node ref="R51" pin="1" pintype="passive"/>
+      <node ref="R52" pin="1" pintype="passive"/>
+      <node ref="R62" pin="1" pintype="passive"/>
+    </net>
+    <net code="77" name="VCC">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="PS1" pin="5" pinfunction="+Vout" pintype="power_out"/>
+      <node ref="Q7" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R53" pin="1" pintype="passive"/>
+      <node ref="R66" pin="1" pintype="passive"/>
+    </net>
+    <net code="78" name="VEE">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="PS2" pin="4" pinfunction="-Vout" pintype="power_out"/>
+      <node ref="Q8" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R67" pin="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>
